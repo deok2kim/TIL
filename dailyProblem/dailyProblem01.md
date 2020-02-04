@@ -1,6 +1,6 @@
 # daily problem
 
-![image-20200203193133278](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20200203193133278.png)
+![dailyProblem01](dailyProblem01.assets/dailyProblem01.jpg)
 
 ```python
 def solution(a, b):

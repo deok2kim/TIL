@@ -1,6 +1,6 @@
 # dailyProblem02
 
-![dailyProblem02](C:\Users\multicampus\TILimg\dailyProblem02.jpg)
+![dailyProblem02](dailyProblem02.assets/dailyProblem02.jpg)
 
 ```python
 def solution(s):

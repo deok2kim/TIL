@@ -1,6 +1,6 @@
 # dailyProblem06
 
-![dailyProblem06](dailyProblem06.assets/dailyProblem06.png)
+![dailyProblem06](dailyProblem06.assets/dailyProblem06.jpg)
 
 ```python
 ### 기존의 이중 for문을 이용해 검사하는 방법은 답은 나오나 time error가 발생

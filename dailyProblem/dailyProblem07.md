@@ -1,6 +1,6 @@
 # dailyProblem07
 
-![dailyProblem06](C:\Users\korea\OneDrive\바탕 화면\새 폴더 (2)\dailyProblem06.png)
+![dailyProblem07](dailyProblem07.assets/dailyProblem07.jpg)
 
 ```python
 def solution(arr):

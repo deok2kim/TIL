@@ -1,6 +1,6 @@
 # dailyProblem04
 
-![dailyProblem04](C:\Users\multicampus\TILimg\dailyProblem04.jpg)
+![dailyProblem04](dailyProblem04.assets/dailyProblem04.jpg)
 
 ```python
 def solution(seoul):

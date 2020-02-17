@@ -26,3 +26,10 @@ def solution(s):
     return answer
 ```
 
+### sorted 함수를 이용하여 간단하게 풀수 있다;
+
+```python
+def solution(s):
+    return ''.join(sorted(s, reverse=True))
+```
+

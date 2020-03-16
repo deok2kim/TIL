@@ -1,0 +1,21 @@
+# CSS 박스 모델
+
+- CSS 박스 모델
+  - 박스 모델의 margin과 padding : 요소 콘텐츠를 둘러 싼 여백 의미
+    - 블록 레벨 요소와 인라인 레벨 요소의 margin과 padding 차이점
+    - 블록의 경우 '상하좌우' 로 적용
+    - 인라인의 경우 '좌우' 만 적용
+    - margin과 padding 초기화 설정
+    - *{ margin: 0; padding: 0;}
+- 요소의 크기 설정 ( width, height 속성 )
+  - width, height 속성 : 블록 레벨 요소의 크기 설정 > 인라인 레벨 요소에는 적용 안됨
+    - width 속성 : 요소의 넓이 설정
+    - height 속성 : 요소의 높이 설정
+- margin 겹침 : 두 개의 margin 연속 적용으로 margin이 겹치는 현상 발생
+- Position
+  - position 속성 : 특정 요소가 다른 요소들과 어떠한 관계 속에서 위치를 결정하는 지 설정
+  - position 속성의 속성 값 : 상대 위치, 절대 위치, 고정 위치
+  - 상대 위치 (relative) : position: relative;
+  - 절대 위치(absolute) : position: absolute;
+    - z-index 속성 : 어떤 요소가 다른 요소 위에 나타나는지 설정
+  - 고정 위치(fixed) : position: fixed;
